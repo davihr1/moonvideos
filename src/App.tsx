@@ -4,7 +4,7 @@ import { Home } from "./Components/Home";
 
 export function App() {
   return (
-    <div className="dark:bg-dark-800 w-screen h-screnn flex flex-col items-center justify-center">
+    <div className="dark:bg-galaxy-500 w-screen h-screnn flex flex-col items-center justify-center">
 
       <Header />
       <Banner />
